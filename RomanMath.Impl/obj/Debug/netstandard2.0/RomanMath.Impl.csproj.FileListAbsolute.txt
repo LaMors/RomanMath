@@ -1,0 +1,9 @@
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.deps.json
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.dll
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.pdb
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csprojAssemblyReference.cache
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfoInputs.cache
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfo.cs
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.CoreCompileInputs.cache
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.dll
+C:\Users\Mortem\Desktop\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.pdb
